@@ -1,0 +1,22 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-openandlearn-dev-94144-authRole",
+            "UnauthRoleArn": "arn:aws:iam::172051591518:role/amplify-openandlearn-dev-94144-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::172051591518:role/amplify-openandlearn-dev-94144-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-openandlearn-dev-94144-deployment",
+            "UnauthRoleName": "amplify-openandlearn-dev-94144-unauthRole",
+            "StackName": "amplify-openandlearn-dev-94144",
+            "StackId": "arn:aws:cloudformation:us-east-1:172051591518:stack/amplify-openandlearn-dev-94144/d5373de0-3612-11ea-9884-0a545e22b5be",
+            "AmplifyAppId": "dtq1sc76erel6"
+        },
+        "categories": {
+            "auth": {
+                "openandlearn750179e0": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"LoginWithAmazon\",\"client_id\":\"amzn1.application-oa2-client.32feeb552bd749bcb5bc7318be03e129\",\"client_secret\":\"30d17f1d1fd4ac6cd2fbf802e7cfd75cae789fc7f932c362ec16156a63c87dbe\"}]"
+                }
+            }
+        }
+    }
+}
